@@ -29,7 +29,7 @@ entries:
       type: homepage
 
     - title: Get Started
-      url: /overview/tutorial.html
+      url: /tutorial.html
       output: web, pdf
 
     - title: Contributing to the Open Source Project
