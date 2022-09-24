@@ -1,9 +1,8 @@
 ---
-title: Get Started
+title: Getting Started Tutorial
 sidebar: doc_sidebar
 permalink: tutorial.html
 ---
-# Getting Started Tutorial
 
 This getting started tutorial describes all the steps you need to be up and running with your own study. The best way to explain the steps is to walk through a simple, real-world example. Follow these steps to get started with the Healthcare Research Hub:
 
