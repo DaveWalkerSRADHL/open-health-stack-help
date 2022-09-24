@@ -1,3 +1,6 @@
+/* This file controls the navbar colors and the sidebar heading level colors. */
+/* customsyle.css controls the sidebar filename level colors. */
+
 .summary {
     color: #808080;
     border-left: 5px solid #4978c4;
@@ -18,11 +21,11 @@ h4 {color: #808080; }
 }
 
 .nav > li > a:hover {
-    background-color: #4978c4;
+    background-color: #242c9c;
 }
 
 div.navbar-collapse .dropdown-menu > li > a:hover {
-    background-color: #242c9c;
+    background-color: #4978c4;
 }
 
 .nav li.thirdlevel > a {
