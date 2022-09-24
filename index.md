@@ -1,11 +1,12 @@
 ---
-title: "What is the Open Health Stack?"
+title: "Introduction"
 keywords: homepage
 tags: [getting_started]
 sidebar: doc_sidebar
 permalink: index.html
-summary: Overview of the Open Health Stack.
 ---
+
+# What is  Open Health Stack?
 
 Today’s health studies using wearable devices typically consist of a wearable device to sense input data, a mobile app that tracks the data, and additional tools to store and analyze the data. Developing these studies from scratch is costly and time consuming. Clearly, a common-use framework can lessen the burden for everyone.
 
