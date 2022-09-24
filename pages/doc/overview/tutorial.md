@@ -1,5 +1,7 @@
 ---
-title: Healthcare Research Hub
+title: Get Started
+sidebar: doc_sidebar
+permalink: tutorial.html
 ---
 # Getting Started Tutorial
 
