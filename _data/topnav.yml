@@ -3,32 +3,26 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
-    - title: News
-      url: /news
+    - title: Documentation
+      url: /index.html
+    - title: API Reference
+      url: /api/index.html
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: Relese Notes
       folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
-    - title: Products
+        - title: v0.9
+          url: /rn/index.html
+    - title: GitHub
       folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
+        - title: Backend
+          external_url: https://github.com/OpenHealthStack/research-platform
+        - title: SDK
+          external_url: https://github.com/OpenHealthStack/research-sdk
+        - title: Portal
+          external_url: https://github.com/OpenHealthStack/research-portal
 
 # Copyright 2021 Google LLC
