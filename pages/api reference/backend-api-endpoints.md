@@ -1,3 +1,9 @@
+---
+title: Backend API Endpoints
+sidebar: doc_sidebar
+permalink: backend-api-endpoints.html
+toc: false
+---
 # Back End API
 ## Version: 0.9.0
 

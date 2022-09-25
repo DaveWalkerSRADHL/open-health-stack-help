@@ -1,7 +1,9 @@
 ---
-title: Healthcare Research Hub
+title: Previewing a Survey
+sidebar: doc_sidebar
+permalink: previewing-a-survey.html
+toc: false
 ---
-# Previewing a Survey
 
 Previewing allows you to see how your survey will look in the app. Preview is available at any point in the survey question creation process.
 

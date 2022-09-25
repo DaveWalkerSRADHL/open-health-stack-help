@@ -1,7 +1,9 @@
 ---
-title: Healthcare Research Hub
+title: Creating a Survey
+sidebar: doc_sidebar
+permalink: creating-a-survey.html
+toc: false
 ---
-# Creating a Survey
 
 A survey is a sequence of questions that collect information from the participants in your study. You create surveys through the Healthcare Research Hub portal.
 

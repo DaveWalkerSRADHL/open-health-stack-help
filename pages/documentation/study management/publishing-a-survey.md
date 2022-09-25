@@ -1,8 +1,9 @@
 ---
-title: Healthcare Research Hub
+title: Scheduling and Publishing a Survey
+sidebar: doc_sidebar
+permalink: publishing-a-survey.html
+toc: false
 ---
-# Publishing a Survey
-
 Once you've completed creating your survey questions, the next step is to schedule and publish the survey. You schedule and publish surveys through the Healthcare Research Hub portal.
 
 To schedule and publish a survey:
