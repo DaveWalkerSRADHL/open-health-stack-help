@@ -92,3 +92,56 @@ entries:
       url: /publishing-a-survey.html
       output: web, pdf
 
+    - title: Managing Participants
+      url: /coming-soon.html
+      output: web, pdf
+
+    - title: Study Execution
+      output: web, pdf
+      folderitems:
+
+    - title: Distributing the App
+      url: /coming_soon.html
+      output: web, pdf
+
+    - title: Distributing the Sensor Devices (own page?)
+      url: /coming_soon.html
+      output: web, pdf
+
+    - title: Registering Participants
+      url: /coming_soon.html
+      output: web, pdf
+
+    - title: Launching the Study
+      url: /coming_soon.html
+      output: web, pdf
+
+    - title: Collecting the Survey Data
+      url: /coming_soon.html
+      output: web, pdf
+
+    - title: Collecting the Sensor Data
+      url: /coming_soon.html
+      output: web, pdf
+
+  - title: Results Analysis
+    output: web, pdf
+    folderitems:
+
+    - title: Viewing Graphs
+      url: /coming_soon.html
+      output: web, pdf
+
+    - title: Running Queries
+      url: /coming_soon.html
+      output: web, pdf
+
+    - title: Viewing Individual Results
+      url: /coming_soon.html
+      output: web, pdf
+
+    - title: Exporting for External Analysis
+      url: /coming_soon.html
+      output: web, pdf
+
+# Copyright 2021 Google LLC
