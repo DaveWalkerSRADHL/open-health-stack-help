@@ -88,12 +88,3 @@ entries:
       url: /previewing-a-survey.html
       output: web, pdf
 
-    - title: Scheduling and Publishing a Survey
-      url: /publishing-a-survey.html
-      output: web, pdf
-
-   - title: Managing Participants?
-      url: /coming_soon.html
-      output: web, pdf
-
-
