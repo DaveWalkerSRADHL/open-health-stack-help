@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Backend API Endpoints
-      url: /backeb=nd-api-endpoints.html
+      url: /backend-api-endpoints.html
       output: web, pdf
       type: homepage
 
