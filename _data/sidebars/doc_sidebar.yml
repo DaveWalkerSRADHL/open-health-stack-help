@@ -105,7 +105,7 @@ entries:
       output: web, pdf
 
     - title: Distributing the Sensor Devices (own page?)
-      url: /mydoc_alerts.html
+      url: 
       output: web, pdf
 
     - title: Registering Participants
@@ -129,7 +129,7 @@ entries:
 
     folderitems:
     - title: Viewing Graphs
-      url: /mydoc_commenting_on_files.html
+      url: 
       output: web, pdf
 
     - title: Running Queries
