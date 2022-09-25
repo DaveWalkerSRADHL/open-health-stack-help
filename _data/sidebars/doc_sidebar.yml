@@ -28,7 +28,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Get Started
+    - title: Getting Started Tutorial
       url: /tutorial.html
       output: web, pdf
 
@@ -54,8 +54,8 @@ entries:
 
   - title: App Creation
     output: web, pdf
-
     folderitems:
+
     - title: Building the Mobile App
       url: /building-the-app.html
       output: web, pdf
@@ -70,8 +70,8 @@ entries:
 
   - title: Study Management
     output: web, pdf
-
     folderitems:
+    
     - title: Creating a Study
       url: /coming_soon.html
       output: web, pdf
@@ -98,8 +98,8 @@ entries:
 
   - title: Study Execution
     output: web, pdf
-
     folderitems:
+
     - title: Distributing the App
       url: /coming_soon.html
       output: web, pdf
@@ -126,8 +126,8 @@ entries:
 
   - title: Results Analysis
     output: web, pdf
-
     folderitems:
+
     - title: Viewing Graphs
       url: /coming_soon.html
       output: web, pdf
