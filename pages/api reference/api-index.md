@@ -1,6 +1,6 @@
 ---
 title: API Reference Homepage
-sidebar: doc_sidebar
+sidebar: api_sidebar
 permalink: api-index.html
 toc: false
 ---
