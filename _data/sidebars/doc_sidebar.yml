@@ -64,6 +64,10 @@ entries:
       url: 
       output: web, pdf
 
+    - title: Other SDK details?
+      url: 
+      output: web, pdf
+
   - title: Study Management
     output: web, pdf
 
@@ -72,7 +76,7 @@ entries:
       url: 
       output: web, pdf
 
-    - title: Assigning Mamanging Roles
+    - title: Assigning Managing Roles
       url: 
       output: web, pdf
 
@@ -86,6 +90,10 @@ entries:
 
     - title: Scheduling and Publishing a Survey
       url: /publishing-a-survey.html
+      output: web, pdf
+
+   - title: Managing Participants?
+      url: 
       output: web, pdf
 
   - title: Study Execution
@@ -125,6 +133,10 @@ entries:
       output: web, pdf
 
     - title: Running Queries
+      url: 
+      output: web, pdf
+
+    - title: Viewing Individual Results
       url: 
       output: web, pdf
 
