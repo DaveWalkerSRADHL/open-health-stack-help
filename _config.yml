@@ -102,6 +102,8 @@ defaults:
 
 sidebars:
 - doc_sidebar
+- api_sidebar
+- notes_sidebar
 - home_sidebar
 - mydoc_sidebar
 - product1_sidebar

@@ -1,6 +1,6 @@
 ---
 title: Backend API Endpoints
-sidebar: doc_sidebar
+sidebar: api_sidebar
 permalink: backend-api-endpoints.html
 toc: false
 ---
