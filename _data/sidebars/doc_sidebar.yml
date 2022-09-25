@@ -35,3 +35,35 @@ entries:
     - title: Contributing to the Open Source Project
       url: /coming_soon.html
       output: web, pdf
+
+  - title: Installation
+    output: web, pdf
+    folderitems:
+
+    - title: Installing the Backend
+      url: /installing-the-backend.html
+      output: web, pdf
+
+    - title: Installing the SDK
+      url: /installing-the-sdk.html
+      output: web, pdf
+
+    - title: Installing the Portal
+      url: /coming_soon.html
+      output: web, pdf
+
+  - title: App Creation
+    output: web, pdf
+    folderitems:
+
+    - title: Building the Mobile App
+      url: /building-the-app.html
+      output: web, pdf
+
+    - title: Configuring the App
+      url: /coming_soon.html
+      output: web, pdf
+
+    - title: Other SDK details?
+      url: /coming_soon.html
+      output: web, pdf
