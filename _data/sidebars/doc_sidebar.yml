@@ -96,9 +96,9 @@ entries:
       url: /coming-soon.html
       output: web, pdf
 
-    - title: Study Execution
-      output: web, pdf
-      folderitems:
+  - title: Study Execution
+    output: web, pdf
+    folderitems:
 
     - title: Distributing the App
       url: /coming_soon.html
