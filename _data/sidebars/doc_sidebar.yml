@@ -67,3 +67,33 @@ entries:
     - title: Other SDK details?
       url: /coming_soon.html
       output: web, pdf
+
+  - title: Study Management
+    output: web, pdf
+    folderitems:
+    
+    - title: Creating a Study
+      url: /coming_soon.html
+      output: web, pdf
+
+    - title: Assigning Managing Roles
+      url: /coming_soon.html
+      output: web, pdf
+
+    - title: Creating a Survey
+      url: /creating-a-survey.html
+      output: web, pdf
+
+    - title: Previewing a Survey
+      url: /previewing-a-survey.html
+      output: web, pdf
+
+    - title: Scheduling and Publishing a Survey
+      url: /publishing-a-survey.html
+      output: web, pdf
+
+   - title: Managing Participants?
+      url: /coming_soon.html
+      output: web, pdf
+
+
