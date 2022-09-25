@@ -6,7 +6,7 @@ topnav:
     - title: Documentation
       url: /index.html
     - title: API Reference
-      url: /api/index.html
+      url: /api-index.html
 
 #Topnav dropdowns
 topnav_dropdowns:
