@@ -33,7 +33,7 @@ entries:
       output: web, pdf
 
     - title: Contributing to the Open Source Project
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
   - title: Installation
@@ -49,7 +49,7 @@ entries:
       output: web, pdf
 
     - title: Installing the Portal
-      url: /installing-the-portal.html
+      url: /coming_soon.html
       output: web, pdf
 
   - title: App Creation
@@ -61,11 +61,11 @@ entries:
       output: web, pdf
 
     - title: Configuring the App
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
     - title: Other SDK details?
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
   - title: Study Management
@@ -73,11 +73,11 @@ entries:
 
     folderitems:
     - title: Creating a Study
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
     - title: Assigning Managing Roles
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
     - title: Creating a Survey
@@ -93,7 +93,7 @@ entries:
       output: web, pdf
 
    - title: Managing Participants?
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
   - title: Study Execution
@@ -101,27 +101,27 @@ entries:
 
     folderitems:
     - title: Distributing the App
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
     - title: Distributing the Sensor Devices (own page?)
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
     - title: Registering Participants
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
     - title: Launching the Study
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
     - title: Collecting the Survey Data
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
     - title: Collecting the Sensor Data
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
   - title: Results Analysis
@@ -129,19 +129,19 @@ entries:
 
     folderitems:
     - title: Viewing Graphs
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
     - title: Running Queries
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
     - title: Viewing Individual Results
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
     - title: Exporting for External Analysis
-      url: 
+      url: /coming_soon.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
