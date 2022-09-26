@@ -12,7 +12,7 @@ A survey is a sequence of questions that collect information from the participan
 To create a new survey:
 
 1. From the **Study Management** page, click **Create survey**. {% include inline_image.html
-file="Add new survey.png" alt="Add new survey" %}
+file="create-survey.png" alt="creat-survey.png" %}
 
 1. Enter a title and optional short description for your survey.
 

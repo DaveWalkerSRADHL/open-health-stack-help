@@ -8,7 +8,8 @@ Once you've completed creating your survey questions, the next step is to schedu
 
 To schedule and publish a survey:
 
-1. From the **Create survey** page, click **Publish**. ![Publish survey](media\Publish survey.png)
+1. From the **Create survey** page, click **Publish**. {% include inline_image.html
+    file="publish-survey.png" alt="publish-survey.png" %}
 2. Select the **Frequency** that participants will repeat your study. The options are:
     - One-time - Participants complete this survey type only once.
     - Daily - Participants complete this survey type each day of the study.
